@@ -1,6 +1,3 @@
-//Rambod Rezvan Panah
-//14014421023
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -519,5 +516,3 @@ public class projectA_E3 {
     }
 
 }
-// Rambod Rezvan Panah
-// 14014421023
