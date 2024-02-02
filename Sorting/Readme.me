@@ -1,0 +1,1 @@
+This code find differences between the word that user input and words in a file that developer inputted to the project.
